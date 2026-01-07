@@ -144,8 +144,8 @@ const AdminDashboard = () => {
             <input type="file" multiple hidden accept='.md' onChange={handleUpload}/>
           </label>
         </div>
-
-        <div className="table-wrapper">
+        <div className="doc-list">
+          <div className="table-wrapper">
           <table>
             <thead>
               <tr><th>File Name</th><th>Actions</th></tr>
@@ -165,6 +165,8 @@ const AdminDashboard = () => {
             </tbody>
           </table>
         </div>
+        </div>
+        
       </div>
 
       {/* The Cursor/Resizer Bar */}
