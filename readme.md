@@ -87,7 +87,7 @@ internal-query-bot/
 │
 ├── requirements.txt
 ├── readme.md
-└── todo.txt
+
 ```
 
 > ⚠️ Runtime artifacts (`.venv`, `.chroma`, `node_modules`) are intentionally ignored via `.gitignore`.
