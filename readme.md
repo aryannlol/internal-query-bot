@@ -193,6 +193,7 @@ data/documents/
 * File content hashing (dedup by content)
 * Docker + CI pipeline
 * Usage analytics
+* Text to markdown
 ---
 
 
