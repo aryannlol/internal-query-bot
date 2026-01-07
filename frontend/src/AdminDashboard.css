@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+/* Layout & Container */
+.admin-wrapper {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background-color: #f1f5f9;
+  overflow: hidden;
+  /* Apply Inter here */
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Document Management Side */
+.admin-panel {
+  flex: 1;
+  padding: 40px;
+  height: 100vh;      /* Force it to be the height of the screen */
+  overflow-y: auto;   /* Allow vertical scrolling */
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.admin-panel.with-preview {
+  flex: 0 0 55%; 
+  border-right: 1px solid #cbd5e1;
+  background: #ffffff;
+}
+
+.admin-panel h2 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #0f172a; /* Deep visible black/blue */
+  letter-spacing: -0.025em; /* Inter looks best with slight negative tracking on headers */
+  margin-bottom: 24px;
+}
+/* Side Preview Pane */
+.side-preview {
+  flex: 1;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  animation: slideIn 0.3s ease-out;
+  border-left: 1px solid #e2e8f0;
+}
+
+@keyframes slideIn {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+.preview-header {
+  padding: 20px 24px;
+  border-bottom: 1px solid #f1f5f9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+}
+.preview-header h3 {
+  color: #0f172a !important; /* Forces the text to be dark slate/black */
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0;
+}
+
+/* Ensure the file-cell inside the preview is also dark */
+.preview-header .file-cell {
+  color: #0f172a;
+}
+.preview-content {
+  padding: 30px;
+  overflow-y: auto;
+  flex: 1;
+  background: #fff;
+  color: #334155; /* Darker text for the document content */
+}
+
+/* Table Styling */
+.table-wrapper {
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  margin-bottom: 20px; /* Space at the bottom */
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background: #f8fafc;
+  padding: 14px 20px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #475569; /* Bold slate for headers */
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+td {
+  padding: 16px 20px;
+  font-size: 14px;
+  font-weight: 500; /* Medium weight for Inter readability */
+  border-bottom: 1px solid #f1f5f9;
+  color: #1e293b; /* Strong contrast for filenames */
+}
+/* File Icons & Badges */
+.file-cell {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-weight: 500;
+}
+
+.file-icon-bg {
+  padding: 8px;
+  background: #dbeafe; /* Light blue bg */
+  color: #1d4ed8; /* Strong blue icon - fix for "white icons" */
+  border-radius: 8px;
+  display: flex;
+}
+
+/* Action Buttons */
+.action-group {
+  display: flex;
+  gap: 8px;
+}
+
+.view-btn, .delete-btn, .close-btn {
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+}
+
+.view-btn { 
+  color: #2563eb; 
+  background: #eff6ff; 
+}
+.view-btn:hover { background: #dbeafe; }
+
+.delete-btn { 
+  color: #b91c1c; /* Darker red for visibility */
+  background: #fef2f2;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.delete-btn:hover {
+  background: #fee2e2;
+  color: #991b1b;
+}
+/* Upload Section */
+.upload-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 40px;
+  border: 2px dashed #cbd5e1;
+  border-radius: 12px;
+  cursor: pointer;
+  background: #f8fafc;
+  margin-bottom: 32px;
+  transition: 0.2s;
+}
+
+.upload-label:hover {
+  border-color: #2563eb;
+  background: #f1f5f9;
+}
+
+.upload-label span {
+  font-weight: 600;
+  font-size: 16px;
+  color: #334155; /* Dark slate for the "Upload" text */
+}
+/* Markdown Visibility */
+.markdown-render h1, .markdown-render h2, .markdown-render h3 {
+  color: #0f172a;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.markdown-render p {
+  margin-bottom: 1em;
+  color: #334155;
+}
+/* Resizer Bar Styling */
+.resizer {
+  width: 6px;
+  cursor: col-resize;
+  background-color: transparent;
+  transition: background-color 0.2s;
+  z-index: 10;
+}
+
+.resizer:hover, .admin-wrapper.resizing .resizer {
+  background-color: #2563eb; /* Blue highlight when dragging */
+}
+
+/* Prevent text selection while dragging */
+.admin-wrapper.resizing {
+  cursor: col-resize;
+  user-select: none;
+}
+
+/* Ensure preview doesn't shrink smaller than its width */
+.side-preview {
+  min-width: 300px;
+  max-width: 80vw;
+}
+
+/* Modal-like Table Rendering for Markdown */
+.markdown-render table {
+  display: table; /* Allow tables to grow with the panel */
+  width: 100%;
+}
+.doc-list {
+  flex: 1; 
+  min-height: 0; /* Important for flex children to allow scrolling */
+}
+.upload-label.disabled {
+  opacity: 0.6;
+  pointer-events: none;
+}

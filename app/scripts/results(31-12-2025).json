@@ -1,0 +1,1927 @@
+[
+  {
+    "question": "I’m taking 12 days off straight — whose desk does this land on?",
+    "answer": null,
+    "sources": [],
+    "confidence": "Low",
+    "retrieved_chunks": []
+  },
+  {
+    "question": "My manager said okay, but HR bounced my leave. Why?",
+    "answer": "Answer:\nLeave being recorded as unpaid.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.0967034101486206,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.134078025817871,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2096707820892334,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      }
+    ]
+  },
+  {
+    "question": "Can I disappear for two weeks without looping in the director?",
+    "answer": "Answer: No.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.3298444747924805,
+        "content": "4.2 Carry-Over\n\n- Maximum carry-over into the following calendar year is 10 days\n- Carried-over leave must be used by June 30 of the following year\n- Unused carried-over leave after this date will be forfeited\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3387694358825684,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Who becomes the bottleneck when leave gets unusually long?",
+    "answer": "Answer: Department Director.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Low",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.350163221359253,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Is my manager enough, or does this need a bigger signature?",
+    "answer": "Answer: Your manager is not enough; it requires the signature of the Department Director.\n\nSources:\n- procurement_policy.md\n- expense_policy.md",
+    "sources": [
+      "procurement_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "procurement_policy.md",
+        "score": 1.250193476676941,
+        "content": "Approval Thresholds by Amount\n\n- **$0–$500**: Manager may approve without quotes\n- **$501–$5,000**: Minimum 2 competitive quotes required\n- **Over $5,000**: Formal RFP or 3+ competitive bids required"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.2925777435302734,
+        "content": "Approval Authority\n\n| Direct Manager + Department Director + Finance Director | Final approval required                  |"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.305827260017395,
+        "content": "Approval Authority\n\n| Expense Amount          | Required Approver(s)                          | Notes                                      |\n|-------------------------|-----------------------------------------------|--------------------------------------------|\n| Any amount              | Direct Manager                                | Mandatory for all expense reports          |\n| > $1,500                | Direct Manager + Department Director          | Additional layer of review                 |\n| > $5,000                | Direct Manager + Department Director + Finance Director | Final approval required"
+      }
+    ]
+  },
+  {
+    "question": "I’m sick during a peak business period — does the notice rule still apply?",
+    "answer": "Answer: No, the notice rule (30 days) does not apply.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.874590277671814,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.8815252780914307,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.201007604598999,
+        "content": "3.6 Unpaid Leave\n\n- Granted on a case-by-case basis\n- Subject to business needs and management approval\n- Unpaid leave does not accrue benefits during the leave period unless required by law\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "What happens if I forget to report sick leave until noon?",
+    "answer": "Answer:\nSick or emergency leave must be reported by 9:00 AM on the first day of absence. Notification must be provided to both the direct manager and the HR system.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.6294044852256775,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.8438361883163452,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1562557220458984,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      }
+    ]
+  },
+  {
+    "question": "Can I request leave first and explain later?",
+    "answer": "Answer: No.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9947223663330078,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3051702976226807,
+        "content": "1. Purpose\n\nThis policy defines the types of paid and unpaid leave available to employees and establishes the procedures for requesting, approving, tracking, and reporting leave. The objective is to ensure consistent application of leave rules while maintaining business continuity.\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3348681926727295,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "If leave overlaps with a public holiday, does approval change?",
+    "answer": "Answer: No.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.1219673156738281,
+        "content": "3.5 Public Holidays\n\n- Observed public holidays are published annually by the HR department\n- Employees required to work on public holidays will be compensated according to company guidelines"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1349561214447021,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1993879079818726,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "What breaks if I take leave without the HR system?",
+    "answer": "Answer: Leave tracking and reporting.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9553074240684509,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.9702276587486267,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0527693033218384,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      }
+    ]
+  },
+  {
+    "question": "Does HR approve leave, or just track it?",
+    "answer": "Answer: Only tracks leave.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.6801875233650208,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.9064357280731201,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0503437519073486,
+        "content": "1. Purpose\n\nThis policy defines the types of paid and unpaid leave available to employees and establishes the procedures for requesting, approving, tracking, and reporting leave. The objective is to ensure consistent application of leave rules while maintaining business continuity.\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Who actually has the final say on long absences?",
+    "answer": "Answer:\nDepartment Director\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.3088829517364502,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.318483591079712,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3955445289611816,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      }
+    ]
+  },
+  {
+    "question": "Is my director involved only because of duration or timing?",
+    "answer": "Answer: Only timing.\n\nSources:\n- remote_work_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "remote_work_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.2233084440231323,
+        "content": "Approval Authority\n\n- Remote work arrangements must be approved by the employee's direct manager.\n- Arrangements exceeding 3 days per week require additional approval from Department Director."
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.224945068359375,
+        "content": "6.1 Standard Approval Levels\n\n- Up to 10 consecutive working days: Direct Manager approval\n- 11 or more consecutive working days: Department Director approval"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2879726886749268,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Who overrides a manager’s approval?",
+    "answer": "Answer: The Finance Director and the Executive team (CEO + CFO) can override a manager's approval.\n\nSources:\n- expense_policy.md\n- procurement_policy.md",
+    "sources": [
+      "incident_management.md",
+      "procurement_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 0.8977380394935608,
+        "content": "Approval Authority\n\n| Direct Manager + Department Director + Finance Director | Final approval required                  |"
+      },
+      {
+        "source": "procurement_policy.md",
+        "score": 0.9384655952453613,
+        "content": "Approval Authority\n\n- **Up to $2,500**: Direct manager\n- **$2,501–$10,000**: Department Director\n- **$10,001–$50,000**: Finance Director\n- **Over $50,000**: Executive team (CEO + CFO)"
+      },
+      {
+        "source": "incident_management.md",
+        "score": 1.0894012451171875,
+        "content": "Approval Authority During Incidents\n\n- **Severity 1 & 2**: CISO or designated Incident Commander has authority to take immediate containment actions\n- **Severity 3 & 4**: Department Head or IT Manager may authorize response actions"
+      }
+    ]
+  },
+  {
+    "question": "Who gets involved when everyone is technically ‘okay’ with it?",
+    "answer": null,
+    "sources": [],
+    "confidence": "Low",
+    "retrieved_chunks": []
+  },
+  {
+    "question": "What’s the punishment for skipping the leave process?",
+    "answer": "Answer:\nFailure to follow the prescribed leave notification or approval process may result in: Leave being recorded as unpaid, Disciplinary action in accordance with company policy.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9599124789237976,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1036250591278076,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1244614124298096,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      }
+    ]
+  },
+  {
+    "question": "Can my leave silently turn unpaid?",
+    "answer": "Answer: Yes.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.882905900478363,
+        "content": "3.6 Unpaid Leave\n\n- Granted on a case-by-case basis\n- Subject to business needs and management approval\n- Unpaid leave does not accrue benefits during the leave period unless required by law\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.021052598953247,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0456777811050415,
+        "content": "1. Purpose\n\nThis policy defines the types of paid and unpaid leave available to employees and establishes the procedures for requesting, approving, tracking, and reporting leave. The objective is to ensure consistent application of leave rules while maintaining business continuity.\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "What’s the fastest way to get into trouble with leave?",
+    "answer": "Answer: Failure to follow the prescribed leave notification or approval process may result in leave being recorded as unpaid, and disciplinary action in accordance with company policy.\n\nSources:\n- leave_policy.md\n- hr_contents.md",
+    "sources": [
+      "leave_policy.md",
+      "hr_contents.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.1729978322982788,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2648853063583374,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "hr_contents.md",
+        "score": 1.3627530336380005,
+        "content": "How to Contact HR – Quick Guide\n\n| Type of Inquiry                   | Recommended Method                              | Notes                                                                 |\n|-----------------------------------|-------------------------------------------------|-----------------------------------------------------------------------|\n| **Routine / General questions**   | HR Service Portal (preferred) or email          | Fastest response; tracked for follow-up                               |\n| **Confidential / Sensitive**      | Direct email to HR Business Partner or HR Director | Use secure channels; mark sub"
+      }
+    ]
+  },
+  {
+    "question": "What happens if I keep ignoring the notification rule?",
+    "answer": "Answer:\nLeave will be recorded as unpaid, and disciplinary action will follow in accordance with company policy. Additionally, repeated violations may be escalated to HR and senior management.\n\nSources:\n- incident_management.md\n- leave_policy.md",
+    "sources": [
+      "incident_management.md",
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "incident_management.md",
+        "score": 1.2533553838729858,
+        "content": "Notification Requirements\n\nAll employees must report suspected incidents immediately to:\n\n- IT Security team (primary channel)\n- Direct manager (secondary)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.323568344116211,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "What’s the worst-case scenario for not following leave policy?",
+    "answer": "Answer:\nLeave being recorded as unpaid, and disciplinary action in accordance with company policy.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.0277502536773682,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1042656898498535,
+        "content": "1. Purpose\n\nThis policy defines the types of paid and unpaid leave available to employees and establishes the procedures for requesting, approving, tracking, and reporting leave. The objective is to ensure consistent application of leave rules while maintaining business continuity.\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1488525867462158,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      }
+    ]
+  },
+  {
+    "question": "Who greenlights time off?",
+    "answer": null,
+    "sources": [],
+    "confidence": "Low",
+    "retrieved_chunks": []
+  },
+  {
+    "question": "Who signs off on extended absence?",
+    "answer": "Answer:\nMedical documentation may be requested.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9808695316314697,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.999111533164978,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0989969968795776,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      }
+    ]
+  },
+  {
+    "question": "Who do I need to convince for a long break?",
+    "answer": null,
+    "sources": [],
+    "confidence": "Low",
+    "retrieved_chunks": []
+  },
+  {
+    "question": "Who holds the power to say no to leave?",
+    "answer": "Answer: Direct Manager (up to 10 consecutive working days) or Department Director (11 or more consecutive working days).\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Low",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.3613160848617554,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Who controls time away approvals?",
+    "answer": "Answer: The employee's direct manager for remote work arrangements and Department Director for requests exceeding 3 days per week, while leave during peak operational periods requires Department Director approval with minimum 30 days’ advance notice.\n\nSources:\n- remote_work_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "remote_work_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.1172512769699097,
+        "content": "Approval Authority\n\n- Remote work arrangements must be approved by the employee's direct manager.\n- Arrangements exceeding 3 days per week require additional approval from Department Director."
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.120062232017517,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.193237543106079,
+        "content": "Timeline for Approvals and Payouts\n\n- **Manager approval**: Within **5 business days** of submission\n- **Finance review & processing**: Within **7 business days** of final approval\n- **Payment**: Issued via **direct deposit** on the **next scheduled payroll cycle** (typically bi-weekly)\n\n**Note**: Delays in submission or missing documentation may result in delayed reimbursement."
+      }
+    ]
+  },
+  {
+    "question": "Why does my leave need earlier notice during Q4?",
+    "answer": "Answer: Peak period rules (Section 6.2) apply only during specified peak operational periods, which are not mentioned in this context. Therefore, there is no indication that your leave needs earlier notice during Q4.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.994451642036438,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0372430086135864,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0719355344772339,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Why is long leave treated differently from short leave?",
+    "answer": "Answer:\nLong leave and short leave are treated differently because of the requirement for Department Director approval (11 or more consecutive working days) as specified in Section 6.1, whereas short leave up to 10 consecutive working days only requires Direct Manager approval.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.0000271797180176,
+        "content": "1. Purpose\n\nThis policy defines the types of paid and unpaid leave available to employees and establishes the procedures for requesting, approving, tracking, and reporting leave. The objective is to ensure consistent application of leave rules while maintaining business continuity.\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0878406763076782,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1069707870483398,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      }
+    ]
+  },
+  {
+    "question": "Why can’t I carry all my unused leave forward?",
+    "answer": "Answer: Unused carried-over leave after June 30 of the following year will be forfeited.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.07198166847229,
+        "content": "4.2 Carry-Over\n\n- Maximum carry-over into the following calendar year is 10 days\n- Carried-over leave must be used by June 30 of the following year\n- Unused carried-over leave after this date will be forfeited\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2879880666732788,
+        "content": "1. Purpose\n\nThis policy defines the types of paid and unpaid leave available to employees and establishes the procedures for requesting, approving, tracking, and reporting leave. The objective is to ensure consistent application of leave rules while maintaining business continuity.\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3012635707855225,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Why does the system block negative leave balances?",
+    "answer": "Answer: Negative leave balances are not permitted except under exceptional circumstances approved by Executive management.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Low",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.3402643203735352,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Why does the approval chain change based on duration?",
+    "answer": "Answer: The approval chain changes because of different levels of management involved in approving leaves, based on the number of consecutive working days. For up to 10 consecutive working days, a Direct Manager's approval is sufficient, whereas for 11 or more consecutive working days, Department Director approval is required.\n\nSources:\n- leave_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.0259063243865967,
+        "content": "6.1 Standard Approval Levels\n\n- Up to 10 consecutive working days: Direct Manager approval\n- 11 or more consecutive working days: Department Director approval"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.0887949466705322,
+        "content": "Timeline for Approvals and Payouts\n\n- **Manager approval**: Within **5 business days** of submission\n- **Finance review & processing**: Within **7 business days** of final approval\n- **Payment**: Issued via **direct deposit** on the **next scheduled payroll cycle** (typically bi-weekly)\n\n**Note**: Delays in submission or missing documentation may result in delayed reimbursement."
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0977180004119873,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Who approves emergency purchases?",
+    "answer": "Answer: Department Director or higher.\n\nSources:\n- procurement_policy.md\n- it_requests.md",
+    "sources": [
+      "it_requests.md",
+      "procurement_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "procurement_policy.md",
+        "score": 0.7187853455543518,
+        "content": "Emergency Procurement Handling\n\n- Emergency purchases (immediate need to prevent significant business harm) may bypass standard quote/bid requirements.\n- Emergency procurement must be approved by Department Director or higher.\n- Justification and documentation required within 5 business days after purchase.\n- All emergency procurements are subject to post-review by Finance.\n\nAll purchases must comply with this policy. Unauthorized purchases are not reimbursable."
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.1470530033111572,
+        "content": "Approval Authority\n\n- **Standard requests (under $1,000)**: IT Service Desk Lead\n- **Hardware/software over $1,000**: IT Manager + Finance approval\n- **Access/permission changes**: System Owner + IT Security\n- **Emergency requests outside business hours**: On-call IT Engineer (escalation required)"
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.152597427368164,
+        "content": "Prohibited Actions\n\nEmployees may not:\n\n- Purchase IT equipment personally for reimbursement\n- Install unapproved software\n- Bypass approval processes\n\nAll IT requests must be tracked in the service portal. Unauthorized procurement or installation may result in disciplinary action."
+      }
+    ]
+  },
+  {
+    "question": "Can I take leave without my manager knowing?",
+    "answer": "Answer: No.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.2070808410644531,
+        "content": "3.6 Unpaid Leave\n\n- Granted on a case-by-case basis\n- Subject to business needs and management approval\n- Unpaid leave does not accrue benefits during the leave period unless required by law\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2784605026245117,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.284435510635376,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Does the CEO approve all leaves?",
+    "answer": "Answer:\nNo, according to Section 6.2 Special Approval Conditions in leave_policy.md, during peak operational periods, Executive (CEO + CFO) approval is required for exceptions, not general leaves.\n\nSources:\n- procurement_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "procurement_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "High",
+    "retrieved_chunks": [
+      {
+        "source": "procurement_policy.md",
+        "score": 1.083997368812561,
+        "content": "Approval Authority\n\n- **Up to $2,500**: Direct manager\n- **$2,501–$10,000**: Department Director\n- **$10,001–$50,000**: Finance Director\n- **Over $50,000**: Executive team (CEO + CFO)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.311959981918335,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.314028024673462,
+        "content": "Approval Authority\n\n| Direct Manager + Department Director + Finance Director | Final approval required                  |"
+      }
+    ]
+  },
+  {
+    "question": "Can HR waive approval rules?",
+    "answer": "Answer:\nNo, there is no mention of HR having the authority to waive approval rules in the provided context.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.03816556930542,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0792714357376099,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1175200939178467,
+        "content": "9. Policy Review\n\nThis policy is reviewed annually by the HR department and may be updated to reflect changes in business needs or legal requirements."
+      }
+    ]
+  },
+  {
+    "question": "Is verbal approval enough?",
+    "answer": "Answer: No, based on the provided context, final approval from multiple authorities is required for some expenses, and additional approvals are needed for remote work arrangements exceeding 3 days per week.\n\nSources:\n- expense_policy.md\n- remote_work_policy.md\n- procurement_policy.md",
+    "sources": [
+      "remote_work_policy.md",
+      "procurement_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 1.2450257539749146,
+        "content": "Approval Authority\n\n| Direct Manager + Department Director + Finance Director | Final approval required                  |"
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.2702785730361938,
+        "content": "Approval Authority\n\n- Remote work arrangements must be approved by the employee's direct manager.\n- Arrangements exceeding 3 days per week require additional approval from Department Director."
+      },
+      {
+        "source": "procurement_policy.md",
+        "score": 1.307597041130066,
+        "content": "Approval Thresholds by Amount\n\n- **$0–$500**: Manager may approve without quotes\n- **$501–$5,000**: Minimum 2 competitive quotes required\n- **Over $5,000**: Formal RFP or 3+ competitive bids required"
+      }
+    ]
+  },
+  {
+    "question": "Okay, but what if it’s just 9 days?",
+    "answer": "Answer: Yes, you can carry over up to 9 days.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Low",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.2876832485198975,
+        "content": "4.2 Carry-Over\n\n- Maximum carry-over into the following calendar year is 10 days\n- Carried-over leave must be used by June 30 of the following year\n- Unused carried-over leave after this date will be forfeited\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "What if I extend it later?",
+    "answer": null,
+    "sources": [],
+    "confidence": "Low",
+    "retrieved_chunks": []
+  },
+  {
+    "question": "What if my manager is on leave?",
+    "answer": "Answer:\nThe policy does not specify what to do in a situation where your direct manager is also on leave.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.0391836166381836,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1084486246109009,
+        "content": "3.6 Unpaid Leave\n\n- Granted on a case-by-case basis\n- Subject to business needs and management approval\n- Unpaid leave does not accrue benefits during the leave period unless required by law\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1445283889770508,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "What if it’s unpaid?",
+    "answer": "Answer:\nUnpaid leave is granted on a case-by-case basis, subject to business needs and management approval.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "it_requests.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "it_requests.md",
+        "score": 1.1672446727752686,
+        "content": "Prohibited Actions\n\nEmployees may not:\n\n- Purchase IT equipment personally for reimbursement\n- Install unapproved software\n- Bypass approval processes\n\nAll IT requests must be tracked in the service portal. Unauthorized procurement or installation may result in disciplinary action."
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.1831787824630737,
+        "content": "Compliance\n\nAll employees are responsible for understanding and adhering to this policy.  \n**Violations** may result in:\n\n- Denial of reimbursement\n- Repayment of improperly reimbursed amounts\n- Disciplinary action, up to and including termination\n\n**Last Updated:** December 25, 2025  \n**Policy Owner:** Finance Department"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.207461953163147,
+        "content": "3.6 Unpaid Leave\n\n- Granted on a case-by-case basis\n- Subject to business needs and management approval\n- Unpaid leave does not accrue benefits during the leave period unless required by law\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "So basically… who’s responsible?",
+    "answer": "Answer:\nEmployees are responsible for the company-provided equipment, including secure storage, prompt reporting of damage/loss, and return of equipment upon termination or role change.\n\nSources:\n- remote_work_policy.md\n- api_docs.md",
+    "sources": [
+      "incident_management.md",
+      "remote_work_policy.md",
+      "api_docs.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.106184959411621,
+        "content": "Equipment Responsibility\n\n- Company-provided equipment remains company property.\n- Employees are responsible for:\n  - Secure storage of equipment\n  - Prompt reporting of damage/loss\n  - Return of equipment upon termination or role change\n\nPersonal equipment may not be used for company work without explicit IT approval."
+      },
+      {
+        "source": "api_docs.md",
+        "score": 1.3276225328445435,
+        "content": "Ownership & Maintenance\n\n- **API owner** (owning team / technical lead) is responsible for keeping documentation current\n- All changes to documentation **must** follow the same review process as code changes"
+      },
+      {
+        "source": "incident_management.md",
+        "score": 1.351590633392334,
+        "content": "Approval Authority During Incidents\n\n- **Severity 1 & 2**: CISO or designated Incident Commander has authority to take immediate containment actions\n- **Severity 3 & 4**: Department Head or IT Manager may authorize response actions"
+      }
+    ]
+  },
+  {
+    "question": "Where is leave officially recorded?",
+    "answer": "Answer: Leave is officially recorded in the HR system.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.1053483486175537,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1530742645263672,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2131348848342896,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Who keeps track if I forget?",
+    "answer": "Answer: You are responsible for reviewing your leave balance at least once per quarter, as stated in the policy.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Low",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.3855806589126587,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Can I check my balance myself?",
+    "answer": "Answer: Yes, employees are responsible for reviewing their leave balances at least once per quarter.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Low",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.1624956130981445,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "How often should I review leave balance?",
+    "answer": "Answer:\nAt least once per quarter.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9552718997001648,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2207642793655396,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.302824854850769,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      }
+    ]
+  },
+  {
+    "question": "Who notices policy violations first?",
+    "answer": "Answer: All employees are responsible for understanding and adhering to the expense policy.\n\nSources:\n- incident_management.md\n- expense_policy.md",
+    "sources": [
+      "incident_management.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "incident_management.md",
+        "score": 1.0058590173721313,
+        "content": "Purpose\n\nThis policy establishes the process for identifying, responding to, and learning from security and operational incidents."
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.0167536735534668,
+        "content": "Compliance\n\nAll employees are responsible for understanding and adhering to this policy.  \n**Violations** may result in:\n\n- Denial of reimbursement\n- Repayment of improperly reimbursed amounts\n- Disciplinary action, up to and including termination\n\n**Last Updated:** December 25, 2025  \n**Policy Owner:** Finance Department"
+      },
+      {
+        "source": "incident_management.md",
+        "score": 1.1214317083358765,
+        "content": "Approval Authority During Incidents\n\n- **Severity 1 & 2**: CISO or designated Incident Commander has authority to take immediate containment actions\n- **Severity 3 & 4**: Department Head or IT Manager may authorize response actions"
+      }
+    ]
+  },
+  {
+    "question": "Explain leave approval like I’m new and scared.",
+    "answer": "Answer:\nFor standard leaves (less than 10 consecutive working days), you need to get your direct manager's approval. For leaves of 11 or more consecutive working days, you'll need the department director's approval.\n\nSources:\n- leave_policy.md\n- expense_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.0803554058074951,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1561567783355713,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.2447705268859863,
+        "content": "Approval Authority\n\n| Direct Manager + Department Director + Finance Director | Final approval required                  |"
+      }
+    ]
+  },
+  {
+    "question": "Summarize the approval flow in one sentence.",
+    "answer": "Answer: Approval for code changes requires peer code review and Tech Lead approval, while deployment approvals require Development Team Lead for staging, Product Manager and Engineering Manager for production, with certain exceptions.\n\nSources:\n- access_control.md\n- deployment_guide.md\n- incident_management.md",
+    "sources": [
+      "incident_management.md",
+      "access_control.md",
+      "deployment_guide.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "access_control.md",
+        "score": 1.0455403327941895,
+        "content": "Required Approvals\n\n| Stage                              | Required Approval                              |\n|------------------------------------|------------------------------------------------|\n| Code/artifact                      | Peer code review + Tech Lead approval          |\n| Deployment to Staging              | Development Team Lead                          |\n| Deployment to Production           | Product Manager + Engineering Manager          |\n| Changes after 17:00 or weekends    | Engineering Director + on-call approval        |"
+      },
+      {
+        "source": "deployment_guide.md",
+        "score": 1.092454195022583,
+        "content": "Required Approvals\n\n| Stage                              | Approver(s)                                      | Notes                                      |\n|------------------------------------|--------------------------------------------------|--------------------------------------------|\n| Code / Artifact                    | Peer code review + Tech Lead                     | Mandatory for all changes                  |\n| Deployment to Staging              | Development Team Lead                            | —                                          |\n| Deployment to Production           | Product Manager + Eng"
+      },
+      {
+        "source": "incident_management.md",
+        "score": 1.1443684101104736,
+        "content": "Approval Authority During Incidents\n\n- **Severity 1 & 2**: CISO or designated Incident Commander has authority to take immediate containment actions\n- **Severity 3 & 4**: Department Head or IT Manager may authorize response actions"
+      }
+    ]
+  },
+  {
+    "question": "What’s the single biggest mistake employees make with leave?",
+    "answer": "Answer: Failure to follow the prescribed leave notification or approval process.\n\nSources:\n- leave_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.1034992933273315,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.2197672128677368,
+        "content": "Compliance\n\nAll employees are responsible for understanding and adhering to this policy.  \n**Violations** may result in:\n\n- Denial of reimbursement\n- Repayment of improperly reimbursed amounts\n- Disciplinary action, up to and including termination\n\n**Last Updated:** December 25, 2025  \n**Policy Owner:** Finance Department"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2629778385162354,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "If I break one rule, which one hurts most?",
+    "answer": null,
+    "sources": [],
+    "confidence": "Low",
+    "retrieved_chunks": []
+  },
+  {
+    "question": "What should I never assume about leave approval?",
+    "answer": "Answer: Failure to follow the prescribed leave notification or approval process may result in Leave being recorded as unpaid and Disciplinary action in accordance with company policy.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.08119797706604,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1689890623092651,
+        "content": "1. Purpose\n\nThis policy defines the types of paid and unpaid leave available to employees and establishes the procedures for requesting, approving, tracking, and reporting leave. The objective is to ensure consistent application of leave rules while maintaining business continuity.\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.174333930015564,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      }
+    ]
+  },
+  {
+    "question": "=============================================================================================================================",
+    "answer": null,
+    "sources": [],
+    "confidence": "Low",
+    "retrieved_chunks": []
+  },
+  {
+    "question": "Can I take 15 days off in January if I have enough balance?",
+    "answer": "Answer: Yes, you can take 15 days off in January if you have enough balance.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.1433603763580322,
+        "content": "4.1 Accrual\n\n- Annual leave accrues monthly at a rate of 1.67 days per month\n- Accrual begins from the employee’s start date"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.17149817943573,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1798207759857178,
+        "content": "4.2 Carry-Over\n\n- Maximum carry-over into the following calendar year is 10 days\n- Carried-over leave must be used by June 30 of the following year\n- Unused carried-over leave after this date will be forfeited\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "My manager is on vacation — who approves my leave request then?",
+    "answer": "Answer: Direct Manager only.\n\nSources:\n- leave_policy.md\n- leave_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9031906723976135,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0629785060882568,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.097224235534668,
+        "content": "1. Purpose\n\nThis policy defines the types of paid and unpaid leave available to employees and establishes the procedures for requesting, approving, tracking, and reporting leave. The objective is to ensure consistent application of leave rules while maintaining business continuity.\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Is 11 consecutive days considered \"long\" leave that needs Director approval?",
+    "answer": "Answer: Yes, it is.\n\nSources:\n- leave_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "remote_work_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.7657438516616821,
+        "content": "6.1 Standard Approval Levels\n\n- Up to 10 consecutive working days: Direct Manager approval\n- 11 or more consecutive working days: Department Director approval"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.7853850722312927,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 0.9402374029159546,
+        "content": "Approval Authority\n\n- Remote work arrangements must be approved by the employee's direct manager.\n- Arrangements exceeding 3 days per week require additional approval from Department Director."
+      }
+    ]
+  },
+  {
+    "question": "Do weekends count as working days when calculating consecutive leave days?",
+    "answer": "Answer: No, weekends do not count as working days when calculating consecutive leave days.\n\nSources:\n- leave_policy.md\n- remote_work_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "remote_work_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9747378826141357,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1326152086257935,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.2073115110397339,
+        "content": "Work Hours Expectations\n\n- Employees must maintain core business hours (10:00–16:00 local time) for availability.\n- Full weekly hours as defined in employment agreement must be completed.\n- Employees remain responsible for meeting all performance expectations."
+      }
+    ]
+  },
+  {
+    "question": "I joined in July — how many annual leave days do I get this year?",
+    "answer": "Answer: You will receive pro-rated annual leave entitlement based on the number of months you have been with the company since July.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.6573905348777771,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.7752496004104614,
+        "content": "4.1 Accrual\n\n- Annual leave accrues monthly at a rate of 1.67 days per month\n- Accrual begins from the employee’s start date"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.8739759922027588,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      }
+    ]
+  },
+  {
+    "question": "Can I carry over 15 days if I promise to use them early next year?",
+    "answer": "Answer:\nNo.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9062950611114502,
+        "content": "4.2 Carry-Over\n\n- Maximum carry-over into the following calendar year is 10 days\n- Carried-over leave must be used by June 30 of the following year\n- Unused carried-over leave after this date will be forfeited\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3134856224060059,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3229870796203613,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      }
+    ]
+  },
+  {
+    "question": "What happens if I take leave without submitting it in the HR system?",
+    "answer": "Answer: Leave being recorded as unpaid and disciplinary action in accordance with company policy.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.8955790996551514,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.979468822479248,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.9987186789512634,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Is sick leave deducted from annual leave if I run out of sick days?",
+    "answer": "Answer: Sick leave does not accumulate across years, but it is also not explicitly stated to be deducted from annual leave.\n\nSources:\n- leave_policy.md\n- leave_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.5698177218437195,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.9268140196800232,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.9527668952941895,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Do I need to give 30 days notice for leave in December?",
+    "answer": "Answer: No, you do not need to give 30 days notice for leave in December.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9185556173324585,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0218437910079956,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.023813009262085,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      }
+    ]
+  },
+  {
+    "question": "Can my manager reject my leave just because the team is busy?",
+    "answer": "Answer: No, your manager cannot reject your leave solely because the team is busy.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.2356512546539307,
+        "content": "3.6 Unpaid Leave\n\n- Granted on a case-by-case basis\n- Subject to business needs and management approval\n- Unpaid leave does not accrue benefits during the leave period unless required by law\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2589037418365479,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.303828477859497,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "I’m taking 3 weeks off around Christmas — whose approval do I need?",
+    "answer": "Answer:\nYou need approval from both your Direct Manager and Department Director.\n\nSources:\n- leave_policy.md\n- remote_work_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "remote_work_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.2099645137786865,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2781037092208862,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.2810401916503906,
+        "content": "Approval Authority\n\n- Remote work arrangements must be approved by the employee's direct manager.\n- Arrangements exceeding 3 days per week require additional approval from Department Director."
+      }
+    ]
+  },
+  {
+    "question": "Does unpaid leave count towards my service years or benefits?",
+    "answer": "Answer:\nNo, unpaid leave does not accrue benefits during the leave period unless required by law.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.7072422504425049,
+        "content": "3.6 Unpaid Leave\n\n- Granted on a case-by-case basis\n- Subject to business needs and management approval\n- Unpaid leave does not accrue benefits during the leave period unless required by law\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.8413640856742859,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.8729234933853149,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      }
+    ]
+  },
+  {
+    "question": "Can I split my annual leave into single days without any issue?",
+    "answer": "Answer: No, there is no information in the provided context that suggests splitting annual leave into single days is permitted.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9095326662063599,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.9312276840209961,
+        "content": "4.1 Accrual\n\n- Annual leave accrues monthly at a rate of 1.67 days per month\n- Accrual begins from the employee’s start date"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.013413667678833,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      }
+    ]
+  },
+  {
+    "question": "What’s the latest I can submit a leave request for next week?",
+    "answer": "Answer: Leave requests must be submitted at least 14 calendar days in advance.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.641125500202179,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.115639567375183,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1321183443069458,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      }
+    ]
+  },
+  {
+    "question": "If HR doesn’t respond, does that mean my leave is approved?",
+    "answer": "Answer: No.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9277698993682861,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.021576166152954,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0610973834991455,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Who can see my leave balance in the HR system?",
+    "answer": "Answer:\nEmployees are responsible for reviewing their leave balances at least once per quarter.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.6352344751358032,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0490295886993408,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1539260149002075,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Can I take leave to attend a training course?",
+    "answer": "Answer: Yes.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.2728508710861206,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3147656917572021,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3620685338974,
+        "content": "3.6 Unpaid Leave\n\n- Granted on a case-by-case basis\n- Subject to business needs and management approval\n- Unpaid leave does not accrue benefits during the leave period unless required by law\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Is bereavement leave separate from annual or sick leave?",
+    "answer": "Answer:\nNo, bereavement leave is not explicitly mentioned in the provided context.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.7600123882293701,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.988042414188385,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.067629098892212,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "What proof do I need for sick leave longer than 2 days?",
+    "answer": "Answer:\nMedical documentation may be requested.\n\nSources:\n- leave_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.6691718101501465,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.7463684678077698,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0486700534820557,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      }
+    ]
+  },
+  {
+    "question": "Can I work remotely while on annual leave?",
+    "answer": "Answer: No, you cannot work remotely while on annual leave.\n\nSources:\n- remote_work_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "remote_work_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "remote_work_policy.md",
+        "score": 0.7981939911842346,
+        "content": "Eligibility\n\nRemote work is available to full-time employees whose roles can be performed effectively outside the office, subject to manager approval.  \nContractors and temporary employees are not eligible."
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0808370113372803,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.098115086555481,
+        "content": "Approval Authority\n\n- Remote work arrangements must be approved by the employee's direct manager.\n- Arrangements exceeding 3 days per week require additional approval from Department Director."
+      }
+    ]
+  },
+  {
+    "question": "If I resign, do I get paid for unused annual leave?",
+    "answer": "Answer:\nNo.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.952979326248169,
+        "content": "3.6 Unpaid Leave\n\n- Granted on a case-by-case basis\n- Subject to business needs and management approval\n- Unpaid leave does not accrue benefits during the leave period unless required by law\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.9989296793937683,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0855079889297485,
+        "content": "4.1 Accrual\n\n- Annual leave accrues monthly at a rate of 1.67 days per month\n- Accrual begins from the employee’s start date"
+      }
+    ]
+  },
+  {
+    "question": "Does public holiday during my leave extend my leave days?",
+    "answer": "Answer:\nNo, a public holiday during your leave does not extend your leave days.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.8451834321022034,
+        "content": "3.5 Public Holidays\n\n- Observed public holidays are published annually by the HR department\n- Employees required to work on public holidays will be compensated according to company guidelines"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.8623287677764893,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.9810665845870972,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      }
+    ]
+  },
+  {
+    "question": "Can I cancel approved leave last minute?",
+    "answer": "Answer: No, there is no information available to support cancelling an approved leave request last minute. The standard leave requests process requires at least 14 calendar days' advance notice for submitting leave requests (Source: leave_policy.md).\n\nSources:\n- leave_policy.md\n- remote_work_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "remote_work_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.0837924480438232,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1456295251846313,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.207228422164917,
+        "content": "Approval Authority\n\n- Remote work arrangements must be approved by the employee's direct manager.\n- Arrangements exceeding 3 days per week require additional approval from Department Director."
+      }
+    ]
+  },
+  {
+    "question": "Who approves leave if my direct manager is the Department Director?",
+    "answer": "Answer: Leave would require Department Director approval.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md",
+      "procurement_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 0.6760789155960083,
+        "content": "Approval Authority\n\n| Direct Manager + Department Director + Finance Director | Final approval required                  |"
+      },
+      {
+        "source": "procurement_policy.md",
+        "score": 0.8988064527511597,
+        "content": "Approval Authority\n\n- **Up to $2,500**: Direct manager\n- **$2,501–$10,000**: Department Director\n- **$10,001–$50,000**: Finance Director\n- **Over $50,000**: Executive team (CEO + CFO)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0048151016235352,
+        "content": "6.1 Standard Approval Levels\n\n- Up to 10 consecutive working days: Direct Manager approval\n- 11 or more consecutive working days: Department Director approval"
+      }
+    ]
+  },
+  {
+    "question": "Is there a limit on how many people in my team can be on leave at once?",
+    "answer": "Answer: The policy does not explicitly state a limit on the number of people in your team who can be on leave at once.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.157092809677124,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2746024131774902,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3021883964538574,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "What happens if I go negative on leave balance?",
+    "answer": "Answer: Negative leave balances are not permitted except under exceptional circumstances approved by Executive management.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9160061478614807,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.219059944152832,
+        "content": "3.6 Unpaid Leave\n\n- Granted on a case-by-case basis\n- Subject to business needs and management approval\n- Unpaid leave does not accrue benefits during the leave period unless required by law\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3203155994415283,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      }
+    ]
+  },
+  {
+    "question": "Can I take half-day leave?",
+    "answer": "Answer: No information is provided about half-day leave.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9519314169883728,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.054006814956665,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.070156216621399,
+        "content": "5.1 Standard Leave Requests\n\n- Leave requests must be submitted through the HR system\n- Requests must be submitted at least 14 calendar days in advance\n- The request must include:\n  - Leave type\n  - Start and end dates\n  - Reason for leave (where applicable)"
+      }
+    ]
+  },
+  {
+    "question": "Do I need to notify anyone if I’m sick on a Friday before a long weekend?",
+    "answer": "Answer:\nYes, you must report your absence by 9:00 AM on the first day of absence.\n\nSources:\n- leave_policy.md\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.8816485404968262,
+        "content": "5.2 Sick and Emergency Leave\n\n- Sick or emergency leave must be reported by 9:00 AM on the first day of absence\n- Notification must be provided to both the direct manager and the HR system\n- Medical documentation may be requested for absences exceeding two consecutive working days\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.211398959159851,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      }
+    ]
+  },
+  {
+    "question": "Is there a difference between \"vacation\" and \"annual leave\" in the policy?",
+    "answer": "Answer:\nNo, according to the provided policy documents, there is no difference between \"vacation\" and \"annual leave\".\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "High",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.5796357989311218,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.0502599477767944,
+        "content": "1. Purpose\n\nThis policy defines the types of paid and unpaid leave available to employees and establishes the procedures for requesting, approving, tracking, and reporting leave. The objective is to ensure consistent application of leave rules while maintaining business continuity.\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.066270351409912,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      }
+    ]
+  },
+  {
+    "question": "I have 8 days carried over from last year — when do I lose them if unused?",
+    "answer": "Answer: Unused carried-over leave after June 30 of the following year will be forfeited.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.776037335395813,
+        "content": "4.2 Carry-Over\n\n- Maximum carry-over into the following calendar year is 10 days\n- Carried-over leave must be used by June 30 of the following year\n- Unused carried-over leave after this date will be forfeited\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3332545757293701,
+        "content": "3.2 Sick Leave\n\n- Entitlement: 10 days per calendar year\n- Sick leave does not accumulate across years\n- Medical documentation may be required for extended or repeated absences"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.3677470684051514,
+        "content": "3.3 Personal / Bereavement Leave\n\n- Entitlement: Up to 5 days per calendar year\n- Applicable for personal emergencies or bereavement of immediate family members"
+      }
+    ]
+  },
+  {
+    "question": "Who approves a $6,000 expense? (should pull from expense_policy.md or procurement_policy.md, not leave)",
+    "answer": "Answer:\nDirect Manager + Department Director + Finance Director\n\nSources:\n- expense_policy.md",
+    "sources": [
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 0.970131516456604,
+        "content": "Approval Authority\n\n| Expense Amount          | Required Approver(s)                          | Notes                                      |\n|-------------------------|-----------------------------------------------|--------------------------------------------|\n| Any amount              | Direct Manager                                | Mandatory for all expense reports          |\n| > $1,500                | Direct Manager + Department Director          | Additional layer of review                 |\n| > $5,000                | Direct Manager + Department Director + Finance Director | Final approval required"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.0611342191696167,
+        "content": "Purpose\n\nThis policy governs the reimbursement of **business-related expenses** incurred by employees while performing their job duties."
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.0875190496444702,
+        "content": "Monthly Expense Limits\n\n- **Individual monthly reimbursement limit**: **$2,000**  \n  Any amount above this requires **pre-approval** from Department Director and Finance\n- **Department monthly aggregate limit**: Managed and monitored by the **Department Director**"
+      }
+    ]
+  },
+  {
+    "question": "Can I buy a new laptop and claim it as leave? (nonsense — tests if it correctly says no info)",
+    "answer": "Answer: No, you may not.\n\nSources:\n- it_requests.md",
+    "sources": [
+      "it_requests.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "it_requests.md",
+        "score": 1.2442283630371094,
+        "content": "Prohibited Actions\n\nEmployees may not:\n\n- Purchase IT equipment personally for reimbursement\n- Install unapproved software\n- Bypass approval processes\n\nAll IT requests must be tracked in the service portal. Unauthorized procurement or installation may result in disciplinary action."
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.3508245944976807,
+        "content": "Request Categories\n\n- New hardware (laptop, monitor, peripherals)\n- Software/license requests\n- System access or permission changes\n- Account setup/modification\n- Technical support/incident reporting\n- Mobile device management (MDM) enrollment"
+      }
+    ]
+  },
+  {
+    "question": "Does the deployment policy say anything about leave approvals? (should say no relevant info)",
+    "answer": "Answer: No, the deployment policy does not mention leave approvals.\n\nSources:\n- access_control.md",
+    "sources": [
+      "leave_policy.md",
+      "access_control.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.015223503112793,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.1051024198532104,
+        "content": "8. Compliance and Disciplinary Action\n\n- Failure to follow the prescribed leave notification or approval process may result in:\n  - Leave being recorded as unpaid\n  - Disciplinary action in accordance with company policy\n- Repeated violations may be escalated to HR and senior management\n\n---"
+      },
+      {
+        "source": "access_control.md",
+        "score": 1.1196224689483643,
+        "content": "Emergency/Hotfix Deployment\n\n1. Document issue severity and impact\n2. Obtain **verbal approval** from:\n   - Engineering Manager\n   - Product Manager\n3. Execute deployment with monitoring\n4. Complete **post-incident review** within **72 hours**"
+      }
+    ]
+  }
+]

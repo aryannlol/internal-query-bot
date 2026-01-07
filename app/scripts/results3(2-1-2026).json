@@ -1,0 +1,825 @@
+[
+  {
+    "question": "Can I claim a $50 lunch with a client without a receipt?",
+    "answer": "Answer: No, you cannot claim a $50 lunch with a client without a receipt as it is considered an \"entertainment or meal without a documented business purpose\" which is prohibited under any circumstances (Source: expense_policy.md).\n\nSources:\n- expense_policy.md\n- None",
+    "sources": [
+      "procurement_policy.md",
+      "it_requests.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 1.2548009157180786,
+        "content": "Prohibited Expenses\n\nThe following are **not** reimbursable under any circumstances:\n\n- Personal expenses of any kind\n- Traffic fines, parking tickets, or other penalties\n- Entertainment or meals without a documented business purpose\n- Luxury items or upgrades (e.g., first-class travel, premium lodging)\n- Alcohol (unless part of a client meal with clear business purpose and pre-approved)\n- Expenses already paid/reimbursed by another source"
+      },
+      {
+        "source": "procurement_policy.md",
+        "score": 1.3143365383148193,
+        "content": "Emergency Procurement Handling\n\n- Emergency purchases (immediate need to prevent significant business harm) may bypass standard quote/bid requirements.\n- Emergency procurement must be approved by Department Director or higher.\n- Justification and documentation required within 5 business days after purchase.\n- All emergency procurements are subject to post-review by Finance.\n\nAll purchases must comply with this policy. Unauthorized purchases are not reimbursable."
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.3494676351547241,
+        "content": "Prohibited Actions\n\nEmployees may not:\n\n- Purchase IT equipment personally for reimbursement\n- Install unapproved software\n- Bypass approval processes\n\nAll IT requests must be tracked in the service portal. Unauthorized procurement or installation may result in disciplinary action."
+      }
+    ]
+  },
+  {
+    "question": "Who approves a $4,000 conference registration fee?",
+    "answer": "Answer: The Department Director.\n\nSources:\n- procurement_policy.md\n- expense_policy.md",
+    "sources": [
+      "expense_policy.md",
+      "procurement_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "procurement_policy.md",
+        "score": 0.8993706703186035,
+        "content": "Approval Thresholds by Amount\n\n- **$0–$500**: Manager may approve without quotes\n- **$501–$5,000**: Minimum 2 competitive quotes required\n- **Over $5,000**: Formal RFP or 3+ competitive bids required"
+      },
+      {
+        "source": "procurement_policy.md",
+        "score": 0.9840599894523621,
+        "content": "Approval Authority\n\n- **Up to $2,500**: Direct manager\n- **$2,501–$10,000**: Department Director\n- **$10,001–$50,000**: Finance Director\n- **Over $50,000**: Executive team (CEO + CFO)"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.2084660530090332,
+        "content": "Approval Authority\n\n| Expense Amount          | Required Approver(s)                          | Notes                                      |\n|-------------------------|-----------------------------------------------|--------------------------------------------|\n| Any amount              | Direct Manager                                | Mandatory for all expense reports          |\n| > $1,500                | Direct Manager + Department Director          | Additional layer of review                 |\n| > $5,000                | Direct Manager + Department Director + Finance Director | Final approval required"
+      }
+    ]
+  },
+  {
+    "question": "Is alcohol ever reimbursable on an expense report?",
+    "answer": "Answer: No, alcohol is not generally reimbursable under any circumstances unless it's part of a client meal with clear business purpose and pre-approved.\n\nSources:\n- expense_policy.md",
+    "sources": [
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 0.783687949180603,
+        "content": "Prohibited Expenses\n\nThe following are **not** reimbursable under any circumstances:\n\n- Personal expenses of any kind\n- Traffic fines, parking tickets, or other penalties\n- Entertainment or meals without a documented business purpose\n- Luxury items or upgrades (e.g., first-class travel, premium lodging)\n- Alcohol (unless part of a client meal with clear business purpose and pre-approved)\n- Expenses already paid/reimbursed by another source"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.0506497621536255,
+        "content": "Allowed Expense Categories\n\nThe following categories are generally reimbursable when they are **directly related to business purposes**:\n\n- **Travel**  \n  Airfare, lodging, ground transportation (taxis, rideshare, rental cars)\n- **Meals and Entertainment**  \n  Must have a clear **business purpose** and include attendees and discussion topics\n- **Office Supplies and Materials**  \n  Items necessary for work (approved by manager)\n- **Professional Development**  \n  Courses, certifications, books, conferences, workshops\n- **Client-related Expenses**  \n  Gifts, meals, or events directly supporting client relationships\n- **Mile"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.0616850852966309,
+        "content": "Reimbursement Process\n\n1. Incur the expense and retain all documentation\n2. **Submit** expense report **within 30 calendar days** of the expense date\n3. Upload **itemized receipts** for all expenses **≥ $25**\n4. Complete the expense report in the company **financial system**\n5. Submit for approval through the automated workflow"
+      }
+    ]
+  },
+  {
+    "question": "What’s the monthly expense limit before I need pre-approval?",
+    "answer": "Answer: $2,000\n\nSources:\n- expense_policy.md",
+    "sources": [
+      "procurement_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 0.6753870844841003,
+        "content": "Monthly Expense Limits\n\n- **Individual monthly reimbursement limit**: **$2,000**  \n  Any amount above this requires **pre-approval** from Department Director and Finance\n- **Department monthly aggregate limit**: Managed and monitored by the **Department Director**"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 0.9007848501205444,
+        "content": "Approval Authority\n\n| Expense Amount          | Required Approver(s)                          | Notes                                      |\n|-------------------------|-----------------------------------------------|--------------------------------------------|\n| Any amount              | Direct Manager                                | Mandatory for all expense reports          |\n| > $1,500                | Direct Manager + Department Director          | Additional layer of review                 |\n| > $5,000                | Direct Manager + Department Director + Finance Director | Final approval required"
+      },
+      {
+        "source": "procurement_policy.md",
+        "score": 1.0075222253799438,
+        "content": "Approval Thresholds by Amount\n\n- **$0–$500**: Manager may approve without quotes\n- **$501–$5,000**: Minimum 2 competitive quotes required\n- **Over $5,000**: Formal RFP or 3+ competitive bids required"
+      }
+    ]
+  },
+  {
+    "question": "Can I get reimbursed for a parking ticket from a client meeting?",
+    "answer": "Answer: No.\n\nSources:\n- expense_policy.md",
+    "sources": [
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 1.0801030397415161,
+        "content": "Prohibited Expenses\n\nThe following are **not** reimbursable under any circumstances:\n\n- Personal expenses of any kind\n- Traffic fines, parking tickets, or other penalties\n- Entertainment or meals without a documented business purpose\n- Luxury items or upgrades (e.g., first-class travel, premium lodging)\n- Alcohol (unless part of a client meal with clear business purpose and pre-approved)\n- Expenses already paid/reimbursed by another source"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.238823413848877,
+        "content": "Reimbursement Process\n\n1. Incur the expense and retain all documentation\n2. **Submit** expense report **within 30 calendar days** of the expense date\n3. Upload **itemized receipts** for all expenses **≥ $25**\n4. Complete the expense report in the company **financial system**\n5. Submit for approval through the automated workflow"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.278336763381958,
+        "content": "Compliance\n\nAll employees are responsible for understanding and adhering to this policy.  \n**Violations** may result in:\n\n- Denial of reimbursement\n- Repayment of improperly reimbursed amounts\n- Disciplinary action, up to and including termination\n\n**Last Updated:** December 25, 2025  \n**Policy Owner:** Finance Department"
+      }
+    ]
+  },
+  {
+    "question": "Do I need multiple quotes for a $3,000 software subscription?",
+    "answer": "Answer: You need a minimum of 2 competitive quotes.\n\nSources:\n- procurement_policy.md\n- expense_policy.md",
+    "sources": [
+      "expense_policy.md",
+      "procurement_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "procurement_policy.md",
+        "score": 1.2460850477218628,
+        "content": "Approval Thresholds by Amount\n\n- **$0–$500**: Manager may approve without quotes\n- **$501–$5,000**: Minimum 2 competitive quotes required\n- **Over $5,000**: Formal RFP or 3+ competitive bids required"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.3510918617248535,
+        "content": "Monthly Expense Limits\n\n- **Individual monthly reimbursement limit**: **$2,000**  \n  Any amount above this requires **pre-approval** from Department Director and Finance\n- **Department monthly aggregate limit**: Managed and monitored by the **Department Director**"
+      }
+    ]
+  },
+  {
+    "question": "Who has final say on a $60,000 vendor contract?",
+    "answer": "Answer: Conflicts of interest must be disclosed.\n\nSources:\n- procurement_policy.md\n- expense_policy.md",
+    "sources": [
+      "expense_policy.md",
+      "procurement_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "procurement_policy.md",
+        "score": 1.1731237173080444,
+        "content": "Vendor Selection Rules\n\n- Selection must be based on best overall value (price, quality, delivery, service).\n- Preferred vendors on approved list must be used when available.\n- Conflicts of interest must be disclosed.\n- No purchases from employees, family members, or related parties without Executive approval."
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.3338990211486816,
+        "content": "Monthly Expense Limits\n\n- **Individual monthly reimbursement limit**: **$2,000**  \n  Any amount above this requires **pre-approval** from Department Director and Finance\n- **Department monthly aggregate limit**: Managed and monitored by the **Department Director**"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.3506393432617188,
+        "content": "Compliance\n\nAll employees are responsible for understanding and adhering to this policy.  \n**Violations** may result in:\n\n- Denial of reimbursement\n- Repayment of improperly reimbursed amounts\n- Disciplinary action, up to and including termination\n\n**Last Updated:** December 25, 2025  \n**Policy Owner:** Finance Department"
+      }
+    ]
+  },
+  {
+    "question": "Can I buy something from my cousin’s company and get it reimbursed?",
+    "answer": "Answer: No.\n\nSources:\n- expense_policy.md\n- procurement_policy.md",
+    "sources": [
+      "it_requests.md",
+      "procurement_policy.md",
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 1.141801357269287,
+        "content": "Prohibited Expenses\n\nThe following are **not** reimbursable under any circumstances:\n\n- Personal expenses of any kind\n- Traffic fines, parking tickets, or other penalties\n- Entertainment or meals without a documented business purpose\n- Luxury items or upgrades (e.g., first-class travel, premium lodging)\n- Alcohol (unless part of a client meal with clear business purpose and pre-approved)\n- Expenses already paid/reimbursed by another source"
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.170512318611145,
+        "content": "Prohibited Actions\n\nEmployees may not:\n\n- Purchase IT equipment personally for reimbursement\n- Install unapproved software\n- Bypass approval processes\n\nAll IT requests must be tracked in the service portal. Unauthorized procurement or installation may result in disciplinary action."
+      },
+      {
+        "source": "procurement_policy.md",
+        "score": 1.2996313571929932,
+        "content": "Emergency Procurement Handling\n\n- Emergency purchases (immediate need to prevent significant business harm) may bypass standard quote/bid requirements.\n- Emergency procurement must be approved by Department Director or higher.\n- Justification and documentation required within 5 business days after purchase.\n- All emergency procurements are subject to post-review by Finance.\n\nAll purchases must comply with this policy. Unauthorized purchases are not reimbursable."
+      }
+    ]
+  },
+  {
+    "question": "What happens if I submit an expense report 45 days after the trip?",
+    "answer": "Answer: The reimbursement process will likely be delayed due to missing the initial 30-calendar-day submission window. Delays in submission or missing documentation may result in delayed reimbursement.\n\nSources:\n- expense_policy.md\n- expense_policy.md (Timeline for Approvals and Payouts)",
+    "sources": [
+      "expense_policy.md",
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 0.9923785924911499,
+        "content": "Reimbursement Process\n\n1. Incur the expense and retain all documentation\n2. **Submit** expense report **within 30 calendar days** of the expense date\n3. Upload **itemized receipts** for all expenses **≥ $25**\n4. Complete the expense report in the company **financial system**\n5. Submit for approval through the automated workflow"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.161783218383789,
+        "content": "7. Tracking and Reporting\n\n- All leave is recorded and tracked in the HR system\n- Employees are responsible for reviewing their leave balances at least once per quarter\n- Negative leave balances are not permitted except under exceptional circumstances approved by Executive management\n\n---"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.169886827468872,
+        "content": "Timeline for Approvals and Payouts\n\n- **Manager approval**: Within **5 business days** of submission\n- **Finance review & processing**: Within **7 business days** of final approval\n- **Payment**: Issued via **direct deposit** on the **next scheduled payroll cycle** (typically bi-weekly)\n\n**Note**: Delays in submission or missing documentation may result in delayed reimbursement."
+      }
+    ]
+  },
+  {
+    "question": "Is first-class airfare ever allowed on company travel?",
+    "answer": "Answer: No.\n\nSources:\n- expense_policy.md",
+    "sources": [
+      "expense_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 1.2699410915374756,
+        "content": "Prohibited Expenses\n\nThe following are **not** reimbursable under any circumstances:\n\n- Personal expenses of any kind\n- Traffic fines, parking tickets, or other penalties\n- Entertainment or meals without a documented business purpose\n- Luxury items or upgrades (e.g., first-class travel, premium lodging)\n- Alcohol (unless part of a client meal with clear business purpose and pre-approved)\n- Expenses already paid/reimbursed by another source"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.3184696435928345,
+        "content": "Allowed Expense Categories\n\nThe following categories are generally reimbursable when they are **directly related to business purposes**:\n\n- **Travel**  \n  Airfare, lodging, ground transportation (taxis, rideshare, rental cars)\n- **Meals and Entertainment**  \n  Must have a clear **business purpose** and include attendees and discussion topics\n- **Office Supplies and Materials**  \n  Items necessary for work (approved by manager)\n- **Professional Development**  \n  Courses, certifications, books, conferences, workshops\n- **Client-related Expenses**  \n  Gifts, meals, or events directly supporting client relationships\n- **Mile"
+      }
+    ]
+  },
+  {
+    "question": "How many days per week can I work remotely without extra approval?",
+    "answer": "Answer:\nUp to 3 days per week.\n\nSources:\n- remote_work_policy.md",
+    "sources": [
+      "remote_work_policy.md",
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "remote_work_policy.md",
+        "score": 0.5445294976234436,
+        "content": "Approval Authority\n\n- Remote work arrangements must be approved by the employee's direct manager.\n- Arrangements exceeding 3 days per week require additional approval from Department Director."
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 0.9162765741348267,
+        "content": "Eligibility\n\nRemote work is available to full-time employees whose roles can be performed effectively outside the office, subject to manager approval.  \nContractors and temporary employees are not eligible."
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 0.9445058107376099,
+        "content": "6.1 Standard Approval Levels\n\n- Up to 10 consecutive working days: Direct Manager approval\n- 11 or more consecutive working days: Department Director approval"
+      }
+    ]
+  },
+  {
+    "question": "Can I use my personal laptop for company work if the company one is slow?",
+    "answer": "Answer: No, you cannot use your personal laptop for company work.\n\nSources:\n- remote_work_policy.md\n- it_requests.md",
+    "sources": [
+      "it_requests.md",
+      "remote_work_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.1363850831985474,
+        "content": "Security Requirements for Remote Access\n\n- All remote access must use company-provided VPN.\n- Multi-factor authentication (MFA) is mandatory for all systems.\n- Devices must maintain up-to-date antivirus software and OS patches.\n- Employees must work from secure, private locations.\n- Public Wi-Fi may not be used for company business without approved VPN.\n\nViolations of this policy may result in revocation of remote work privileges and/or disciplinary action."
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.294663667678833,
+        "content": "Eligibility\n\nRemote work is available to full-time employees whose roles can be performed effectively outside the office, subject to manager approval.  \nContractors and temporary employees are not eligible."
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.3424618244171143,
+        "content": "Prohibited Actions\n\nEmployees may not:\n\n- Purchase IT equipment personally for reimbursement\n- Install unapproved software\n- Bypass approval processes\n\nAll IT requests must be tracked in the service portal. Unauthorized procurement or installation may result in disciplinary action."
+      }
+    ]
+  },
+  {
+    "question": "Who approves a request for a new monitor over $1,200?",
+    "answer": "Answer: IT Manager + Finance approval\n\nSources:\n- it_requests.md\n- procurement_policy.md",
+    "sources": [
+      "it_requests.md",
+      "procurement_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "it_requests.md",
+        "score": 0.9527981281280518,
+        "content": "Approval Authority\n\n- **Standard requests (under $1,000)**: IT Service Desk Lead\n- **Hardware/software over $1,000**: IT Manager + Finance approval\n- **Access/permission changes**: System Owner + IT Security\n- **Emergency requests outside business hours**: On-call IT Engineer (escalation required)"
+      },
+      {
+        "source": "procurement_policy.md",
+        "score": 1.1862550973892212,
+        "content": "Approval Thresholds by Amount\n\n- **$0–$500**: Manager may approve without quotes\n- **$501–$5,000**: Minimum 2 competitive quotes required\n- **Over $5,000**: Formal RFP or 3+ competitive bids required"
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.1881966590881348,
+        "content": "Prohibited Actions\n\nEmployees may not:\n\n- Purchase IT equipment personally for reimbursement\n- Install unapproved software\n- Bypass approval processes\n\nAll IT requests must be tracked in the service portal. Unauthorized procurement or installation may result in disciplinary action."
+      }
+    ]
+  },
+  {
+    "question": "Can I install ChatGPT on my work computer?",
+    "answer": null,
+    "sources": [],
+    "confidence": "Low",
+    "retrieved_chunks": []
+  },
+  {
+    "question": "What do I do if I lose my company laptop while working from a café?",
+    "answer": "Answer: Do not use public Wi-Fi for company business. Violate the security requirements, such as using public Wi-Fi, to avoid losing remote work privileges and/or facing disciplinary action.\n\nSources:\n- remote_work_policy.md",
+    "sources": [
+      "remote_work_policy.md"
+    ],
+    "confidence": "Low",
+    "retrieved_chunks": [
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.3821985721588135,
+        "content": "Security Requirements for Remote Access\n\n- All remote access must use company-provided VPN.\n- Multi-factor authentication (MFA) is mandatory for all systems.\n- Devices must maintain up-to-date antivirus software and OS patches.\n- Employees must work from secure, private locations.\n- Public Wi-Fi may not be used for company business without approved VPN.\n\nViolations of this policy may result in revocation of remote work privileges and/or disciplinary action."
+      }
+    ]
+  },
+  {
+    "question": "Is public Wi-Fi okay for checking company email?",
+    "answer": "Answer: No, public Wi-Fi may not be used for company business without approved VPN.\n\nSources:\n- remote_work_policy.md\n- it_requests.md",
+    "sources": [
+      "it_requests.md",
+      "remote_work_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.0731786489486694,
+        "content": "Security Requirements for Remote Access\n\n- All remote access must use company-provided VPN.\n- Multi-factor authentication (MFA) is mandatory for all systems.\n- Devices must maintain up-to-date antivirus software and OS patches.\n- Employees must work from secure, private locations.\n- Public Wi-Fi may not be used for company business without approved VPN.\n\nViolations of this policy may result in revocation of remote work privileges and/or disciplinary action."
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.39077889919281,
+        "content": "Prohibited Actions\n\nEmployees may not:\n\n- Purchase IT equipment personally for reimbursement\n- Install unapproved software\n- Bypass approval processes\n\nAll IT requests must be tracked in the service portal. Unauthorized procurement or installation may result in disciplinary action."
+      }
+    ]
+  },
+  {
+    "question": "Who do I contact for an urgent software license on a weekend?",
+    "answer": "Answer: On-call IT Engineer\n\nSources:\n- it_requests.md",
+    "sources": [
+      "it_requests.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "it_requests.md",
+        "score": 1.2427939176559448,
+        "content": "Approval Authority\n\n- **Standard requests (under $1,000)**: IT Service Desk Lead\n- **Hardware/software over $1,000**: IT Manager + Finance approval\n- **Access/permission changes**: System Owner + IT Security\n- **Emergency requests outside business hours**: On-call IT Engineer (escalation required)"
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.2517393827438354,
+        "content": "Prohibited Actions\n\nEmployees may not:\n\n- Purchase IT equipment personally for reimbursement\n- Install unapproved software\n- Bypass approval processes\n\nAll IT requests must be tracked in the service portal. Unauthorized procurement or installation may result in disciplinary action."
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.271080493927002,
+        "content": "Response and Fulfillment SLAs\n\n- **Critical/urgent (business blocking)**: 4 business hours response, 1 business day resolution target\n- **High priority**: 8 business hours response, 3 business days resolution target\n- **Standard**: 24 business hours response, 5–10 business days resolution target"
+      }
+    ]
+  },
+  {
+    "question": "Can contractors work fully remote under the same rules?Who approves a production deployment on a Saturday?",
+    "answer": "Answer:\nContractors are not eligible for remote work.\n\nSources:\n- remote_work_policy.md\n- remote_work_policy.md\n\nAnswer to second question:\nNo one can approve a production deployment on a Saturday because it is not during business hours. The emergency exception process applies, as stated in the Required Approvals section of the deployment_guide.md document.",
+    "sources": [
+      "remote_work_policy.md",
+      "deployment_guide.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "remote_work_policy.md",
+        "score": 0.8307868242263794,
+        "content": "Approval Authority\n\n- Remote work arrangements must be approved by the employee's direct manager.\n- Arrangements exceeding 3 days per week require additional approval from Department Director."
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 0.8657140731811523,
+        "content": "Eligibility\n\nRemote work is available to full-time employees whose roles can be performed effectively outside the office, subject to manager approval.  \nContractors and temporary employees are not eligible."
+      },
+      {
+        "source": "deployment_guide.md",
+        "score": 1.001381516456604,
+        "content": "Required Approvals\n\n|\n| Deployment to Production           | Product Manager + Engineering Manager            | Required during business hours             |\n| Changes after 17:00 or on weekends | Engineering Director + On-call Engineer          | Emergency exception process applies        |"
+      }
+    ]
+  },
+  {
+    "question": "What triggers an immediate rollback during a release?",
+    "answer": "Answer:\nError rate increases by ≥ 5% (compared to pre-deployment baseline), Critical functionality failure, Performance degradation > 30%, or Widespread customer-reported major issues.\n\nSources:\n- deployment_guide.md\n- access_control.md",
+    "sources": [
+      "access_control.md",
+      "deployment_guide.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "deployment_guide.md",
+        "score": 0.6302788853645325,
+        "content": "Rollback Criteria\n\nImmediate rollback is required if **any** of the following is observed:\n\n- Error rate increases by **≥ 5%** (compared to pre-deployment baseline)\n- Critical functionality failure\n- Performance degradation **> 30%** (key metrics: latency, throughput)\n- Widespread customer-reported major issues"
+      },
+      {
+        "source": "access_control.md",
+        "score": 0.6747640371322632,
+        "content": "Rollback Criteria\n\nDeployment should be rolled back immediately if any of the following occur:\n\n- ≥ **5%** error rate increase\n- Critical functionality failure\n- Performance degradation > **30%**\n- Customer-reported major issues"
+      },
+      {
+        "source": "access_control.md",
+        "score": 1.0916776657104492,
+        "content": "Deployment Process (Standard)\n\n1. Create release branch and pass automated tests\n2. Merge to main after peer review\n3. Deploy to Staging → verify by QA and product team\n4. Schedule production deployment window  \n   (minimum **48 hours** notice unless emergency)\n5. Perform deployment during approved change window\n6. Monitor for **30 minutes** post-deployment\n7. Rollback plan **must** be documented and tested (where applicable)"
+      }
+    ]
+  },
+  {
+    "question": "Do all config changes need the same approval as code deployments?",
+    "answer": "Answer:\nNo, not all config changes require the same approval as code deployments.\n\nSources:\n- access_control.md\n- deployment_guide.md",
+    "sources": [
+      "access_control.md",
+      "deployment_guide.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "access_control.md",
+        "score": 0.9493929743766785,
+        "content": "Purpose\n\nThis document outlines the standard process for deploying software changes to production environments."
+      },
+      {
+        "source": "deployment_guide.md",
+        "score": 0.9493929743766785,
+        "content": "Purpose\n\nThis document outlines the standard process for deploying software changes to production environments."
+      },
+      {
+        "source": "access_control.md",
+        "score": 1.004549264907837,
+        "content": "Environments\n\n**Development → Staging → Production**\n\nAll changes **must** progress through this sequence unless explicitly approved otherwise."
+      }
+    ]
+  },
+  {
+    "question": "Who declares a Severity 1 incident and takes command?",
+    "answer": "Answer: The CISO or designated Incident Commander has authority to take immediate containment actions.\n\nSources:\n- incident_management.md",
+    "sources": [
+      "incident_management.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "incident_management.md",
+        "score": 0.7268181443214417,
+        "content": "Approval Authority During Incidents\n\n- **Severity 1 & 2**: CISO or designated Incident Commander has authority to take immediate containment actions\n- **Severity 3 & 4**: Department Head or IT Manager may authorize response actions"
+      },
+      {
+        "source": "incident_management.md",
+        "score": 0.9437509775161743,
+        "content": "What Qualifies as an Incident\n\nAn incident is any event that:\n\n- Compromises or threatens the confidentiality, integrity, or availability of company systems/data\n- Violates company policy or applicable law\n- Causes or may cause material disruption to business operations"
+      },
+      {
+        "source": "incident_management.md",
+        "score": 1.0091670751571655,
+        "content": "Post-Incident Review Process\n\n- All incidents rated Severity 2 or higher require a formal post-incident review.\n- Review completed within 10 business days of incident closure.\n- Review team includes at minimum: Incident Commander, affected department lead, IT Security.\n- Report documents root cause, timeline, response effectiveness, and lessons learned.\n- Action items assigned with owners and deadlines.\n\nAll incidents must be documented in the company incident tracking system."
+      }
+    ]
+  },
+  {
+    "question": "How soon after a major incident must the review report be done?",
+    "answer": "Answer: Within 10 business days of incident closure.\n\nSources:\n- incident_management.md\n- access_control.md",
+    "sources": [
+      "access_control.md",
+      "expense_policy.md",
+      "incident_management.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "incident_management.md",
+        "score": 0.5618225336074829,
+        "content": "Post-Incident Review Process\n\n- All incidents rated Severity 2 or higher require a formal post-incident review.\n- Review completed within 10 business days of incident closure.\n- Review team includes at minimum: Incident Commander, affected department lead, IT Security.\n- Report documents root cause, timeline, response effectiveness, and lessons learned.\n- Action items assigned with owners and deadlines.\n\nAll incidents must be documented in the company incident tracking system."
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 1.125024437904358,
+        "content": "Timeline for Approvals and Payouts\n\n- **Manager approval**: Within **5 business days** of submission\n- **Finance review & processing**: Within **7 business days** of final approval\n- **Payment**: Issued via **direct deposit** on the **next scheduled payroll cycle** (typically bi-weekly)\n\n**Note**: Delays in submission or missing documentation may result in delayed reimbursement."
+      },
+      {
+        "source": "access_control.md",
+        "score": 1.125981092453003,
+        "content": "Emergency/Hotfix Deployment\n\n1. Document issue severity and impact\n2. Obtain **verbal approval** from:\n   - Engineering Manager\n   - Product Manager\n3. Execute deployment with monitoring\n4. Complete **post-incident review** within **72 hours**"
+      }
+    ]
+  },
+  {
+    "question": "Does a small typo fix count as a hotfix or routine release?",
+    "answer": "Answer:\nA small typo fix counts as a configuration change.\n\nSources:\n- access_control.md\n- deployment_guide.md",
+    "sources": [
+      "access_control.md",
+      "deployment_guide.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "access_control.md",
+        "score": 1.1077239513397217,
+        "content": "Deployment Types\n\n- Routine releases (planned features/bug fixes)\n- Hotfixes (critical production issues)\n- Configuration changes\n- Infrastructure updates"
+      },
+      {
+        "source": "access_control.md",
+        "score": 1.120242953300476,
+        "content": "Emergency/Hotfix Deployment\n\n1. Document issue severity and impact\n2. Obtain **verbal approval** from:\n   - Engineering Manager\n   - Product Manager\n3. Execute deployment with monitoring\n4. Complete **post-incident review** within **72 hours**"
+      },
+      {
+        "source": "deployment_guide.md",
+        "score": 1.1557334661483765,
+        "content": "Deployment Types\n\n- Routine releases (planned features, improvements, bug fixes)\n- Hotfixes (critical production issues requiring immediate action)\n- Configuration changes\n- Infrastructure updates"
+      }
+    ]
+  },
+  {
+    "question": "Can I publish an internal API without documenting rate limits?",
+    "answer": "Answer: No.\n\nSources:\n- api_docs.md",
+    "sources": [
+      "api_docs.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "api_docs.md",
+        "score": 0.8388575911521912,
+        "content": "Documentation Standards\n\n- Use **OpenAPI 3.0+** specification\n- Include complete definitions for:\n  - All **enums**\n  - All **schemas** (request/response)\n  - Realistic **examples**\n- Document **rate limits** per endpoint and/or per user/role\n- Documentation **must** be updated **before** production deployment\n- Documentation is part of the **code review** process"
+      },
+      {
+        "source": "api_docs.md",
+        "score": 0.9284803867340088,
+        "content": "Purpose\n\nThis document defines the required structure and standards for all **internal API documentation**."
+      },
+      {
+        "source": "api_docs.md",
+        "score": 1.1529765129089355,
+        "content": "Versioning Requirements\n\n- All APIs **must** be versioned (e.g., `/v1/`, `/v2/`)\n- **Breaking changes** require a new **major** version\n- **Deprecation notice**  \n  Minimum **90 days** advance notice for deprecated endpoints/versions"
+      }
+    ]
+  },
+  {
+    "question": "How many days notice before I deprecate an API endpoint?",
+    "answer": "Answer: Minimum 90 days advance notice is required for deprecated endpoints.\n\nSources:\n- api_docs.md\n- leave_policy.md",
+    "sources": [
+      "access_control.md",
+      "api_docs.md",
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "api_docs.md",
+        "score": 0.7598475217819214,
+        "content": "Versioning Requirements\n\n- All APIs **must** be versioned (e.g., `/v1/`, `/v2/`)\n- **Breaking changes** require a new **major** version\n- **Deprecation notice**  \n  Minimum **90 days** advance notice for deprecated endpoints/versions"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.290294885635376,
+        "content": "6.2 Special Approval Conditions\n\n- Leave during peak operational periods (e.g., quarter-end close, major product launches) requires:\n  - Department Director approval\n  - Minimum 30 days’ advance notice\n- Exceptions to approval limits require Executive approval\n\n---"
+      },
+      {
+        "source": "access_control.md",
+        "score": 1.3380318880081177,
+        "content": "Rollback Criteria\n\nDeployment should be rolled back immediately if any of the following occur:\n\n- ≥ **5%** error rate increase\n- Critical functionality failure\n- Performance degradation > **30%**\n- Customer-reported major issues"
+      }
+    ]
+  },
+  {
+    "question": "Is missing API documentation considered an incident? What severity?",
+    "answer": "Answer:\nYes, missing API documentation is considered an incident. The severity of this incident is Severity 3.\n\nSources:\n- api_docs.md",
+    "sources": [
+      "api_docs.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "api_docs.md",
+        "score": 0.6236526966094971,
+        "content": "Incident Classification\n\n**Out-of-date**, **incomplete**, or **missing** API documentation is classified as a **Severity 3** incident."
+      },
+      {
+        "source": "api_docs.md",
+        "score": 0.9443147778511047,
+        "content": "Required Documentation Location\n\n- All APIs **must** have documentation published in the **central API portal**  \n  (Swagger/OpenAPI format is **preferred**)\n- Source documentation files are stored in the repository at:  \n  `/docs/api/` (alongside the related code)"
+      },
+      {
+        "source": "api_docs.md",
+        "score": 0.985370397567749,
+        "content": "Purpose\n\nThis document defines the required structure and standards for all **internal API documentation**."
+      }
+    ]
+  },
+  {
+    "question": "Who owns keeping API docs up to date — devs or tech lead?",
+    "answer": "Answer: The API owner, which is the owning team or technical lead.\n\nSources:\n- api_docs.md",
+    "sources": [
+      "api_docs.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "api_docs.md",
+        "score": 0.5809723138809204,
+        "content": "Ownership & Maintenance\n\n- **API owner** (owning team / technical lead) is responsible for keeping documentation current\n- All changes to documentation **must** follow the same review process as code changes"
+      },
+      {
+        "source": "api_docs.md",
+        "score": 1.029406189918518,
+        "content": "Purpose\n\nThis document defines the required structure and standards for all **internal API documentation**."
+      },
+      {
+        "source": "api_docs.md",
+        "score": 1.081991195678711,
+        "content": "Required Documentation Location\n\n- All APIs **must** have documentation published in the **central API portal**  \n  (Swagger/OpenAPI format is **preferred**)\n- Source documentation files are stored in the repository at:  \n  `/docs/api/` (alongside the related code)"
+      }
+    ]
+  },
+  {
+    "question": "Does the expense policy say anything about production deployment approvals?",
+    "answer": "Answer: No, the expense policy does not mention production deployment approvals.\n\nSources:\n- expense_policy.md\n- access_control.md\n- deployment_guide.md",
+    "sources": [
+      "access_control.md",
+      "expense_policy.md",
+      "deployment_guide.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 1.0654325485229492,
+        "content": "Purpose\n\nThis policy governs the reimbursement of **business-related expenses** incurred by employees while performing their job duties."
+      },
+      {
+        "source": "access_control.md",
+        "score": 1.065931797027588,
+        "content": "Environments\n\n**Development → Staging → Production**\n\nAll changes **must** progress through this sequence unless explicitly approved otherwise."
+      },
+      {
+        "source": "deployment_guide.md",
+        "score": 1.0726304054260254,
+        "content": "Required Approvals\n\n|\n| Deployment to Production           | Product Manager + Engineering Manager            | Required during business hours             |\n| Changes after 17:00 or on weekends | Engineering Director + On-call Engineer          | Emergency exception process applies        |"
+      }
+    ]
+  },
+  {
+    "question": "Can I use procurement rules to buy extra vacation days?",
+    "answer": "Answer: No.\n\nSources:\n- leave_policy.md",
+    "sources": [
+      "leave_policy.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 1.146317481994629,
+        "content": "3.1 Annual Leave (Vacation)\n\n- Entitlement: 20 days per calendar year\n- Leave is pro-rated for employees joining during the year\n- Annual leave is intended for rest and personal time away from work"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.2651973962783813,
+        "content": "4.2 Carry-Over\n\n- Maximum carry-over into the following calendar year is 10 days\n- Carried-over leave must be used by June 30 of the following year\n- Unused carried-over leave after this date will be forfeited\n\n---"
+      },
+      {
+        "source": "leave_policy.md",
+        "score": 1.28322172164917,
+        "content": "3.5 Public Holidays\n\n- Observed public holidays are published annually by the HR department\n- Employees required to work on public holidays will be compensated according to company guidelines"
+      }
+    ]
+  },
+  {
+    "question": "According to the remote work policy, who handles incident response?",
+    "answer": "Answer: The CISO or designated Incident Commander has authority to take immediate containment actions for Severity 1 & 2 incidents, while Department Head or IT Manager may authorize response actions for Severity 3 & 4 incidents.\n\nSources:\n- incident_management.md\n- incident_management.md",
+    "sources": [
+      "incident_management.md",
+      "hr_contents.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "incident_management.md",
+        "score": 0.8495898246765137,
+        "content": "Approval Authority During Incidents\n\n- **Severity 1 & 2**: CISO or designated Incident Commander has authority to take immediate containment actions\n- **Severity 3 & 4**: Department Head or IT Manager may authorize response actions"
+      },
+      {
+        "source": "hr_contents.md",
+        "score": 0.9477983117103577,
+        "content": "Emergency & After-Hours Contacts\n\n- **Serious employee welfare issues** (e.g., safety, mental health crisis, harassment):  \n  Contact **HR Director** immediately via **mobile number** (available in the company emergency contact list)\n\n- **Immediate payroll errors** affecting current pay period:  \n  Contact **Payroll Specialist** through the **on-call rotation** (details in emergency contact list)"
+      },
+      {
+        "source": "incident_management.md",
+        "score": 0.989378035068512,
+        "content": "Purpose\n\nThis policy establishes the process for identifying, responding to, and learning from security and operational incidents."
+      }
+    ]
+  },
+  {
+    "question": "Is there a dress code in the IT requests policy?",
+    "answer": "Answer: No\n\nSources:\n- it_requests.md",
+    "sources": [
+      "it_requests.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "it_requests.md",
+        "score": 1.037463665008545,
+        "content": "Purpose\n\nThis policy defines the process for requesting IT hardware, software, access, or support services."
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.1821402311325073,
+        "content": "Prohibited Actions\n\nEmployees may not:\n\n- Purchase IT equipment personally for reimbursement\n- Install unapproved software\n- Bypass approval processes\n\nAll IT requests must be tracked in the service portal. Unauthorized procurement or installation may result in disciplinary action."
+      },
+      {
+        "source": "it_requests.md",
+        "score": 1.2118573188781738,
+        "content": "Submission Process\n\n- All requests must be submitted through the IT Service Portal (self-service ticketing system).\n- Required information: business justification, urgency, cost centre/department code.\n- Attachments (quotes, specifications) must be included when applicable."
+      }
+    ]
+  },
+  {
+    "question": "Who approves my request to work on a public holiday? (should route correctly or say no info)",
+    "answer": "Answer: The HR department observes and publishes public holidays annually, but does not approve requests for working on these holidays. You will be compensated according to company guidelines if required to work on a public holiday.\n\nSources:\n- leave_policy.md\n- remote_work_policy.md",
+    "sources": [
+      "remote_work_policy.md",
+      "leave_policy.md"
+    ],
+    "confidence": "High",
+    "retrieved_chunks": [
+      {
+        "source": "leave_policy.md",
+        "score": 0.9992395639419556,
+        "content": "3.5 Public Holidays\n\n- Observed public holidays are published annually by the HR department\n- Employees required to work on public holidays will be compensated according to company guidelines"
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.273969292640686,
+        "content": "Approval Authority\n\n- Remote work arrangements must be approved by the employee's direct manager.\n- Arrangements exceeding 3 days per week require additional approval from Department Director."
+      },
+      {
+        "source": "remote_work_policy.md",
+        "score": 1.3566229343414307,
+        "content": "Eligibility\n\nRemote work is available to full-time employees whose roles can be performed effectively outside the office, subject to manager approval.  \nContractors and temporary employees are not eligible."
+      }
+    ]
+  },
+  {
+    "question": "Can I claim mileage for driving to a deployment meeting?",
+    "answer": "Answer: Yes.\n\nSources:\n- expense_policy.md",
+    "sources": [
+      "expense_policy.md"
+    ],
+    "confidence": "Low",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 1.0041089057922363,
+        "content": "Allowed Expense Categories\n\nent-related Expenses**  \n  Gifts, meals, or events directly supporting client relationships\n- **Mileage**  \n  Business use of personal vehicle (at current IRS standard mileage rate)"
+      }
+    ]
+  },
+  {
+    "question": "Does the API documentation policy mention expense limits?",
+    "answer": "Answer: No.\n\nSources:\n- expense_policy.md\n- api_docs.md",
+    "sources": [
+      "expense_policy.md",
+      "api_docs.md"
+    ],
+    "confidence": "Medium",
+    "retrieved_chunks": [
+      {
+        "source": "expense_policy.md",
+        "score": 0.800783097743988,
+        "content": "Monthly Expense Limits\n\n- **Individual monthly reimbursement limit**: **$2,000**  \n  Any amount above this requires **pre-approval** from Department Director and Finance\n- **Department monthly aggregate limit**: Managed and monitored by the **Department Director**"
+      },
+      {
+        "source": "expense_policy.md",
+        "score": 0.9729507565498352,
+        "content": "Allowed Expense Categories\n\nent-related Expenses**  \n  Gifts, meals, or events directly supporting client relationships\n- **Mileage**  \n  Business use of personal vehicle (at current IRS standard mileage rate)"
+      },
+      {
+        "source": "api_docs.md",
+        "score": 1.0309195518493652,
+        "content": "Mandatory Sections\n\nEvery API documentation **must** include the following sections:\n\n1. **API Overview & Purpose**  \n   High-level description of what the API does and its intended use cases\n\n2. **Base URL & Authentication method**  \n   - Base URL structure  \n   - Supported authentication mechanisms\n\n3. **Rate limits & Quotas**  \n   Global and per-endpoint limits\n\n4. **Error codes & handling**  \n   Standard error format and common error codes\n\n5. **Authentication & Authorization**  \n   - JWT, API keys, OAuth scopes, etc.  \n   - Required headers and token formats\n\n6. **Endpoints** — detailed list containing for e"
+      }
+    ]
+  }
+]

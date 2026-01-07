@@ -1,0 +1,65 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+/* Layout & Container *//* 1. Reset everything to allow full-screen layout */
+#root {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  text-align: left; /* Fixes the "everything centered" problem */
+  max-width: none;  /* Allows the dashboard to use the whole screen */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Stops the "double scrollbar" on the main page */
+  display: block;
+  font-family: 'Inter';
+}
+
+/* 2. Source Tags (Cleaned up for your Knowledge Base) */
+.sources-container {
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid #e2e8f0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.source-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #475569;
+  width: 100%;
+  margin-bottom: 4px;
+}
+
+.source-tag {
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 0.75rem;
+  color: #1e40af;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+  transition: all 0.2s ease;
+}
+
+.source-tag:hover {
+  background: #dbeafe;
+  border-color: #3b82f6;
+  transform: translateY(-1px);
+}
+
+/* 3. Cleanup old Vite styles that interfere with Admin UI */
+.logo {
+  display: none; /* Hide if not needed in Admin */
+}
+
+.card {
+  padding: 0; /* Remove extra padding around the main UI */
+}

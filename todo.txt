@@ -1,0 +1,201 @@
+1. Internal Query Bot / Knowledge Hub (for all teams)
+🧩 Problem It Solves
+
+Teams (sales, dev, support) often ask repeated questions:
+
+“Where is the API documentation?”
+
+“What is the leave policy?”
+
+“Who approves laptop requests?”
+
+“Where is the deployment guide?”
+
+People waste time searching or asking others.
+
+🛠️ What He Can Build
+
+A small web-based chatbot that:
+
+Answers company FAQs
+
+Searches internal documents
+
+Works across teams
+
+Uses simple embeddings (sentence-transformers)
+
+⭐ Why Perfect
+
+Very achievable in 1 month
+
+Super useful
+
+No heavy ML training
+
+Makes him look like he built a real productivity tool
+
+✅ 2. Task & Issue Tracker with AI Suggestions (Cross-Team)
+🧩 Problem
+
+Teams coordinate poorly across projects:
+Sales → Dev
+Dev → QA
+Support → Dev
+
+Issues often get lost.
+
+🛠️ Features
+
+Create tasks
+
+Assign tasks to teams
+
+Track status
+
+Simple dashboard
+
+AI suggests task priority / tags
+
+⭐ Why Perfect
+
+Simple CRUD
+
+Add a small AI layer
+
+Very useful internally
+
+Works for any team
+
+✅ 3. Meeting Notes Summarizer + Action Item Extractor
+🧩 Problem
+
+Teams attend many meetings but:
+
+Notes aren’t shared
+
+Action items get lost
+
+Decisions are not recorded properly
+
+🛠️ Solution
+
+A tool where users upload audio/text → AI extracts:
+
+Summary
+
+Action items
+
+Responsible people
+
+Deadlines
+
+⭐ Why Perfect
+
+Easy AI (use T5/BART small)
+
+Very practical
+
+Helps cross-team communication
+
+Achievable in 1 month
+
+✅ 4. Internal Forms Automation Bot (For sales, HR, operations)
+🧩 Problem
+
+Teams fill repeated forms daily:
+
+Sales proposals
+
+HR onboarding forms
+
+Leave forms
+
+Daily reports
+Tedious and repetitive.
+
+🛠️ He Can Build
+
+A simple platform where teams:
+
+Create templates
+
+Fill forms via chat or web form
+
+Auto-generate PDFs
+
+Auto-send to email
+
+⭐ Perfect Because
+
+No ML required
+
+Solves real problems
+
+Intern-friendly tech stack
+
+✅ 5. Cross-Team Document Search Engine (Mini internal Google)
+🧩 Problem
+
+Companies have files everywhere:
+
+Google Drive
+
+Notion
+
+Confluence
+
+PDFs
+
+Excel sheets
+
+People waste time searching.
+
+🛠️ Build a simple search tool
+
+Upload docs
+
+Extract text
+
+Create embeddings
+
+Search by keyword or question
+
+Show most relevant documents
+
+⭐ Achievable Because
+
+Use basic NLP + Flask
+
+No complex UI needed
+
+Very useful for all teams
+
+✅ 6. Internal Ticket Routing Assistant (Support → Dev)
+🧩 Problem
+
+When tickets come in, support team doesn’t know:
+
+Which dev to assign
+
+What category it belongs to
+
+How urgent it is
+
+🛠️ Build a simple tool
+
+Support pastes ticket text
+
+AI categorizes: bug / feature / request
+
+Suggests team: dev / ops / QA
+
+Suggests priority: low/medium/high
+
+⭐ Perfect
+
+Simple ML classification
+
+Easy UI
+
+Very impactful for teams

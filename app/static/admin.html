@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Admin – Knowledge Base Rebuild</title>
+  <style>
+    body { font-family: Arial; padding: 40px; }
+    button { padding: 10px 20px; margin-top: 10px; }
+    #status { margin-top: 20px; }
+  </style>
+</head>
+<body>
+
+<h2>Upload Documents & Rebuild Index</h2>
+
+<input type="file" id="files" multiple />
+<br><br>
+<button onclick="upload()">Upload & Rebuild</button>
+
+<div id="status"></div>
+
+<script>
+async function upload() {
+  const filesInput = document.getElementById("files");
+  const status = document.getElementById("status");
+
+  if (!filesInput.files.length) {
+    alert("Select at least one file");
+    return;
+  }
+
+  const formData = new FormData();
+  for (const f of filesInput.files) {
+    formData.append("files", f);
+  }
+
+  status.innerText = "Rebuilding index...";
+
+  try {
+    const res = await fetch("/admin/upload-and-rebuild", {
+      method: "POST",
+      body: formData
+    });
+
+    const data = await res.json();
+    status.innerText = data.message || "Done";
+  } catch (e) {
+    status.innerText = "Error during rebuild";
+  }
+}
+</script>
+
+</body>
+</html>

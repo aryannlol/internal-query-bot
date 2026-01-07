@@ -1,0 +1,90 @@
+
+I’m taking 12 days off straight — whose desk does this land on?
+My manager said okay, but HR bounced my leave. Why?
+Can I disappear for two weeks without looping in the director?
+Who becomes the bottleneck when leave gets unusually long?
+Is my manager enough, or does this need a bigger signature?
+I’m sick during a peak business period — does the notice rule still apply?
+What happens if I forget to report sick leave until noon?
+Can I request leave first and explain later?
+If leave overlaps with a public holiday, does approval change?
+What breaks if I take leave without the HR system?
+Does HR approve leave, or just track it?
+Who actually has the final say on long absences?
+Is my director involved only because of duration or timing?
+Who overrides a manager’s approval?
+Who gets involved when everyone is technically ‘okay’ with it?
+What’s the punishment for skipping the leave process?
+Can my leave silently turn unpaid?
+What’s the fastest way to get into trouble with leave?
+What happens if I keep ignoring the notification rule?
+What’s the worst-case scenario for not following leave policy?
+Who greenlights time off?
+Who signs off on extended absence?
+Who do I need to convince for a long break?
+Who holds the power to say no to leave?
+Who controls time away approvals?
+Why does my leave need earlier notice during Q4?
+Why is long leave treated differently from short leave?
+Why can’t I carry all my unused leave forward?
+Why does the system block negative leave balances?
+Why does the approval chain change based on duration?
+Who approves emergency purchases?
+Can I take leave without my manager knowing?
+Does the CEO approve all leaves?
+Can HR waive approval rules?
+Is verbal approval enough?
+Okay, but what if it’s just 9 days?
+What if I extend it later?
+What if my manager is on leave?
+What if it’s unpaid?
+So basically… who’s responsible?
+Where is leave officially recorded?
+Who keeps track if I forget?
+Can I check my balance myself?
+How often should I review leave balance?
+Who notices policy violations first?
+Explain leave approval like I’m new and scared.
+Summarize the approval flow in one sentence.
+What’s the single biggest mistake employees make with leave?
+If I break one rule, which one hurts most?
+What should I never assume about leave approval?
+
+
+=============================================================================================================================
+
+
+
+Can I take 15 days off in January if I have enough balance?
+My manager is on vacation — who approves my leave request then?
+Is 11 consecutive days considered "long" leave that needs Director approval?
+Do weekends count as working days when calculating consecutive leave days?
+I joined in July — how many annual leave days do I get this year?
+Can I carry over 15 days if I promise to use them early next year?
+What happens if I take leave without submitting it in the HR system?
+Is sick leave deducted from annual leave if I run out of sick days?
+Do I need to give 30 days notice for leave in December?
+Can my manager reject my leave just because the team is busy?
+I’m taking 3 weeks off around Christmas — whose approval do I need?
+Does unpaid leave count towards my service years or benefits?
+Can I split my annual leave into single days without any issue?
+What’s the latest I can submit a leave request for next week?
+If HR doesn’t respond, does that mean my leave is approved?
+Who can see my leave balance in the HR system?
+Can I take leave to attend a training course?
+Is bereavement leave separate from annual or sick leave?
+What proof do I need for sick leave longer than 2 days?
+Can I work remotely while on annual leave?
+If I resign, do I get paid for unused annual leave?
+Does public holiday during my leave extend my leave days?
+Can I cancel approved leave last minute?
+Who approves leave if my direct manager is the Department Director?
+Is there a limit on how many people in my team can be on leave at once?
+What happens if I go negative on leave balance?
+Can I take half-day leave?
+Do I need to notify anyone if I’m sick on a Friday before a long weekend?
+Is there a difference between "vacation" and "annual leave" in the policy?
+I have 8 days carried over from last year — when do I lose them if unused?
+Who approves a $6,000 expense? (should pull from expense_policy.md or procurement_policy.md, not leave)
+Can I buy a new laptop and claim it as leave? (nonsense — tests if it correctly says no info)
+Does the deployment policy say anything about leave approvals? (should say no relevant info)

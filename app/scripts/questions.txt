@@ -1,0 +1,34 @@
+Can I claim a $50 lunch with a client without a receipt?
+Who approves a $4,000 conference registration fee?
+Is alcohol ever reimbursable on an expense report?
+What’s the monthly expense limit before I need pre-approval?
+Can I get reimbursed for a parking ticket from a client meeting?
+Do I need multiple quotes for a $3,000 software subscription?
+Who has final say on a $60,000 vendor contract?
+Can I buy something from my cousin’s company and get it reimbursed?
+What happens if I submit an expense report 45 days after the trip?
+Is first-class airfare ever allowed on company travel?
+How many days per week can I work remotely without extra approval?
+Can I use my personal laptop for company work if the company one is slow?
+Who approves a request for a new monitor over $1,200?
+Can I install ChatGPT on my work computer?
+What do I do if I lose my company laptop while working from a café?
+Is public Wi-Fi okay for checking company email?
+Who do I contact for an urgent software license on a weekend?
+Can contractors work fully remote under the same rules?Who approves a production deployment on a Saturday?
+What triggers an immediate rollback during a release?
+Do all config changes need the same approval as code deployments?
+Who declares a Severity 1 incident and takes command?
+How soon after a major incident must the review report be done?
+Does a small typo fix count as a hotfix or routine release?
+Can I publish an internal API without documenting rate limits?
+How many days notice before I deprecate an API endpoint?
+Is missing API documentation considered an incident? What severity?
+Who owns keeping API docs up to date — devs or tech lead?
+Does the expense policy say anything about production deployment approvals?
+Can I use procurement rules to buy extra vacation days?
+According to the remote work policy, who handles incident response?
+Is there a dress code in the IT requests policy?
+Who approves my request to work on a public holiday? (should route correctly or say no info)
+Can I claim mileage for driving to a deployment meeting?
+Does the API documentation policy mention expense limits?
