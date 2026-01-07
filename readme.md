@@ -156,8 +156,6 @@ http://localhost:5173
 ## 📄 Supported Documents
 
 * `.md` (Markdown)
-* `.txt` (Text)
-* `.pdf` (PDF)
 
 Documents are stored in:
 
@@ -195,41 +193,9 @@ data/documents/
 * File content hashing (dedup by content)
 * Docker + CI pipeline
 * Usage analytics
-
 ---
 
-## 📜 License
-
-This project is currently unlicensed.
-Add a license if you plan to open-source it.
-
----
-
-## 🙌 Author
 
 Built by **Aryan**
-Focused on real-world internal tooling, not demos.
 
 ---
-
-### ✅ What to do next
-
-1. Replace your current `readme.md` with this
-2. Commit and push:
-
-```bash
-git add readme.md
-git commit -m "Improve README documentation"
-git push
-```
-
----
-
-If you want, next I can:
-
-* tailor this README for **resume/interview**
-* shorten it for **GitHub landing**
-* add diagrams
-* write a **project explanation pitch**
-
-Just say what you want next.
